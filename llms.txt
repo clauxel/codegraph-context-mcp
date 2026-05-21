@@ -1,0 +1,15 @@
+# CodeGraph Context
+
+CodeGraph Context is a hosted remote MCP for code graph MCP for AI coding.
+
+Website: https://codegraphcontext.clauxel.com/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: code graph MCP for AI coding
+Type: MCP
+Default plan: team
+MCP endpoint: https://codegraphcontext.clauxel.com/mcp
+Server card: https://codegraphcontext.clauxel.com/server-card.json
+Registry name: com.clauxel.codegraphcontext/codegraphcontext-mcp
+Tools: repo_graph_query, symbol_impact_path, branch_context_pack, dependency_hotspot_report
+
+Public boundary: docs-only repository; no production source code or secrets.
